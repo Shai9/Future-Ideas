@@ -1,0 +1,10 @@
+[color]
+	ui = true
+[init]
+	defaultBranch = main
+[user]
+	email = dennis.shakava@student.moringaschool.com
+	name = Dennis Shakava
+[core]
+	editor = code --wait
+	autocrlf = true
